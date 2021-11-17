@@ -1,3 +1,3 @@
 A list of my favorite things:
-Travelling
-Painting
+[ ]Travelling
+[ ]Painting
