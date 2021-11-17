@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*One day everything will be well, that is* **our hope**
+_Everything is fine today, that is_ __our illusion__
